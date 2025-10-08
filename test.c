@@ -2,7 +2,6 @@
 #include<string.h>
 int main()
 {
-	printf("hello,C\n");
 	printf("%zu\n", sizeof(int));
 	int len = strlen("abc");
 	printf("%d\n",len);
