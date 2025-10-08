@@ -9,5 +9,6 @@ int main()
 	char arr1[] = "abcd";
 	char arr2[] = { 'a','b','c','d','\0' };
 	printf(arr1);
+	printf(arr2);
 	return 0;
 }
